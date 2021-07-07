@@ -7,7 +7,8 @@ Notebook - spec-fiel.txt
 conda create --name myenv --file spec-file.txt
 
 # RGB preview
-![alt text](imgs/rgb.jpg)
+<img src="imgs/rgb.jpg" width="500" height="500">
 
 # NDVI preview
-![alt text](imgs/ndvi_preview.jpg)
+<img src="imgs/ndvi_preview.jpg" width="500" height="500">
+
